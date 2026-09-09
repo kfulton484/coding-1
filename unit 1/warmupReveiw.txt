@@ -1,0 +1,5 @@
+#4 data types we've learned in class 
+#A code repository is , something that storeds the code 
+#A Computer keyboard is a input device because it process what we type and sends it to the Computer.
+# A variable is , a specfied contanier that stores data any data you want.
+# A variable rule we learned in class is it needs to start with a letter and not a number.

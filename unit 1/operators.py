@@ -50,4 +50,3 @@ print(3>1 or 100> 50)
 
 # NOT- the oppisite day operator . it will reverse the 
 # result of logical operators 
-print(not(3>1 or 100>50)

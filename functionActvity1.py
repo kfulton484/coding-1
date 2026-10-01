@@ -1,6 +1,5 @@
-#1
-val=input("Please type in a number: ")
-print(int(val>85))
+
+
 
 
 # notes 
@@ -8,3 +7,5 @@ print(int(val>85))
 # comparing a number we type in to 85
 # print true if number is over 85
 # print false if under 85
+val = int(input("Please type in a number: "))
+print(val > 85)

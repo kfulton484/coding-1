@@ -4,15 +4,13 @@
 # Step 2; the numbers should be typed in by a user 
 
 # Phase 1: Function definition - actual code 
+# phase 2:Function call- exrcuting code
 def calculate_add():
     print("Program has started: please type two numbers to add")
-    num1 = input()
-    num2 = input()
+    num1 = int(input())
+    num2 = int(input())
     print(num1+num2)
 
-
- # phase 2:Function call- exrcuting code
-calculate_add()
 
 
 #subtraction function

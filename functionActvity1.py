@@ -1,7 +1,4 @@
 
-
-
-
 # notes 
 # need to use input to take in a number 
 # comparing a number we type in to 85

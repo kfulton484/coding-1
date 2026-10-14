@@ -28,8 +28,8 @@ def calculate_multiply():
     print(num1*num2)
 
 # division function 
-def calculate_divide():
-    print("Program has started: please type two numbers to divide")
+def calculate_multiply():
+    print("Program has started: please type two numbers to multiply")
     num1 = input()
     num2 = input()
-    print(num1/num2)
+    print(num1*num2)

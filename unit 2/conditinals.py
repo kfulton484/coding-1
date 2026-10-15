@@ -23,7 +23,7 @@
 # 3=multiplication()
 # 4= division()
 
-def calulate_add():
+def calculate_add():
     print("Program has started:please type in 2 numbers to add ")
     num1 = int(input())
     num2 = int(input())
@@ -52,19 +52,18 @@ def calculate_multiply():
 
 
 
-choice = input("Please a number")
+# choice = input("Please a number")
 
-if choice =='1':
-    calculate_add()
-elif choice == '2':
-    calculate_subtract()
-elif choice == '3':
-    calculate_multiply()
-elif choice == '4'
-    calculate_divide()
+# if choice =='1':
+#     calculate_add()
+# elif choice == '2':
+#     calculate_subtract()
+# elif choice == '3':
+#     calculate_multiply()
+# elif choice == '4':
+#     calculate_divide()
 
-
-age = input()
+age = int(input())
 
 if age < 7: 
     print(8.00)
@@ -72,5 +71,19 @@ elif age > 8 and age < 20:
     print(12.00)
 elif age > 21 and age < 60:
     print(20.00)
-elif age > 61 and age < older:
+elif age > 61:
     print(0.00)        
+
+def movieTicket():
+    print("Welcome to the movie theater. Please type in your age")
+    age = input()
+    if age <= 7:
+        print("your ticket is 8.00")
+    elif age >= 8 and age <= 20:
+        print('your ticket is 12.00')
+    elif age >= 21 and age <= 60:
+        print('your ticket is 20.00')    
+    elif age>= 61:
+        print("your ticket is free")         
+    else:
+        print("sorry there was an error in the program....")

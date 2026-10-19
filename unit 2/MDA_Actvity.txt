@@ -1,0 +1,12 @@
+1). If i had to describe the game i might be creating i would say , think about Pac-Man and the pac-man has to chase the ghosts but what if you had the choice 
+to decise if you want to play as pac man or the ghosts?
+
+2). The games main objective is to if your playing as the ghosts is to chase the pac but... if your playing as the pac to run away from the ghosts and the main objective 
+is to tsop one another from winning the game 
+
+3). if the user wins the game there will be some sort of of prizes for the winner kind of like perks to make it easier to win.
+
+4). If the user/player loses the game or doesnt commit the objective they get a win took from them and goes to square oneand starts 
+over again.
+
+5). The games that inspired me to make a game like or simlur to this one would be the Google snake game , or the original Pac-Man caused me to make this .

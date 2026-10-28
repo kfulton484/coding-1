@@ -35,21 +35,20 @@ def passwordReset():
 
 
     def vending_machine():
-    # Dictionary mapping the item codes to the product names
-    inventory = {
+    inventory: = {
         "B3": "Nacho Chips",
         "G4": "BBQ Chips",
         "G7": "Plain Chips",
         "D3": "Water",
         "G5": "Cola Soda"
-    }
+    
     
     print("--- Vending Machine Menu ---")
     for code, item in inventory.items():
-        print(f"[{code}] {item}")
-    print("----------------------------")
+        print("[code] ("item")")
+    print("")
 
-    while True:
+    while:
         # Prompt the user for an item selection or to quit
         user_input = input("\nEnter a vending machine code (or 'q' to quit): ").strip().upper()
         
@@ -63,3 +62,9 @@ def passwordReset():
             print(f"Dispensing: {inventory[user_input]}")
         else:
             print("Invalid code. Please try again or press 'q' to quit.")
+
+
+
+
+
+
